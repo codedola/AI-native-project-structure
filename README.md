@@ -1,0 +1,1 @@
+# AI-native-project-structure
